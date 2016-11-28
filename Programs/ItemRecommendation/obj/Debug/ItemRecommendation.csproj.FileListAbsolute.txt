@@ -1,0 +1,11 @@
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\item_recommendation.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\item_recommendation.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\CommandLineProgram.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\MyMediaLite.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\MathNet.Numerics.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\C5.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\MyMediaLite.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\bin\Debug\CommandLineProgram.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\obj\Debug\ItemRecommendation.csprojResolveAssemblyReference.cache
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\obj\Debug\item_recommendation.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\ItemRecommendation\obj\Debug\item_recommendation.pdb

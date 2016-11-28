@@ -1,0 +1,13 @@
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\rating_based_ranking.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\rating_based_ranking.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\CommandLineProgram.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\MyMediaLite.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\rating_prediction.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\MathNet.Numerics.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\C5.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\rating_prediction.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\MyMediaLite.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\bin\Debug\CommandLineProgram.pdb
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\obj\Debug\RatingBasedRanking.csprojResolveAssemblyReference.cache
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\obj\Debug\rating_based_ranking.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingBasedRanking\obj\Debug\rating_based_ranking.pdb

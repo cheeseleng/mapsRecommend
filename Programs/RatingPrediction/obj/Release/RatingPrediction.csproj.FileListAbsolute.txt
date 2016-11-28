@@ -1,0 +1,7 @@
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\bin\Release\rating_prediction.exe
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\bin\Release\CommandLineProgram.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\bin\Release\MyMediaLite.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\bin\Release\MathNet.Numerics.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\bin\Release\C5.dll
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\obj\Release\RatingPrediction.csprojResolveAssemblyReference.cache
+E:\sync_cs_code\MyMediateLite\src\Programs\RatingPrediction\obj\Release\rating_prediction.exe
